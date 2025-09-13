@@ -1,0 +1,39 @@
+canonical_smiles,molecule_chembl_id,is_inhibitor,data_source,standard_value,standard_type,standard_units,activity_comment
+COc1ccc(-c2cnc3cc(OC)c(OC)cc3c2)cc1C,CHEMBL66925,1,mdm2_active,,,,
+COc1ccc(-c2cnc3cc(OC)c(OC)cc3c2)cc1,CHEMBL70130,1,mdm2_active,,,,
+COc1cc2cc(-c3ccc(O)cc3)cnc2cc1OC,CHEMBL303704,1,mdm2_active,,,,
+COc1cc2cc(-c3ccc(OC)c([N+](=O)[O-])c3)cnc2cc1OC,CHEMBL67170,1,mdm2_active,,,,
+COc1cc2cc(-c3cccc(F)c3)cnc2cc1OC,CHEMBL302491,1,mdm2_active,,,,
+CCOC(=O)c1ccc(-c2cnc3cc(OC)c(OC)cc3c2)cc1,CHEMBL67169,1,mdm2_active,,,,
+COc1cc2cc(-c3cc(F)c(OC)c(F)c3)cnc2cc1OC,CHEMBL66924,1,mdm2_active,,,,
+COc1cc2cc(-c3ccccc3)cnc2cc1OC,CHEMBL66063,1,mdm2_active,,,,
+COc1cc2cc(-c3ccc(F)c(F)c3)cnc2cc1OC,CHEMBL67424,1,mdm2_active,,,,
+COc1cc2cc(-c3ccc(F)cc3)cnc2cc1OC,CHEMBL68401,1,mdm2_active,,,,
+COc1ccc(-c2cnc3cc(OC)c(OC)cc3c2)cc1F,CHEMBL67436,1,mdm2_active,,,,
+Fc1ccc2cc(-c3ccsc3)cnc2c1,CHEMBL307093,1,mdm2_active,,,,
+COc1ccc2cc(-c3ccsc3)cnc2c1,CHEMBL68185,1,mdm2_active,,,,
+Fc1cccc2ncc(-c3ccsc3)cc12,CHEMBL305056,1,mdm2_active,,,,
+COc1ccc2ncc(-c3ccsc3)cc2c1,CHEMBL303184,1,mdm2_active,,,,
+COc1cc(OC)c2cc(-c3ccsc3)cnc2c1,CHEMBL66071,1,mdm2_active,,,,
+Cc1cc(C)c2cc(-c3ccsc3)cnc2c1,CHEMBL304333,1,mdm2_active,,,,
+COc1cc2cc(-c3ccsc3)cnc2cc1OC,CHEMBL66643,1,mdm2_active,,,,
+c1ccc2ncc(-c3ccsc3)cc2c1,CHEMBL304310,1,mdm2_active,,,,
+COc1cc2cc(-c3cccs3)cnc2cc1OC,CHEMBL304336,1,mdm2_active,,,,
+COc1cc2cc(-c3sccc3Cl)cnc2cc1OC,CHEMBL306234,1,mdm2_active,,,,
+COc1ccc(-c2cnc3cc(OC)c(OC)cc3c2)s1,CHEMBL302745,1,mdm2_active,,,,
+COc1cc2cc(-c3ccc(Cl)s3)cnc2cc1OC,CHEMBL69820,1,mdm2_active,,,,
+COc1cc2cc(-c3cccnc3)cnc2cc1OC,CHEMBL304668,1,mdm2_active,,,,
+COc1cc2cc(-c3ccc(O)nc3)cnc2cc1OC,CHEMBL66981,1,mdm2_active,,,,
+COc1ccc(-c2cnc3cc(OC)c(OC)cc3c2)cn1,CHEMBL66612,1,mdm2_active,,,,
+COc1cc2cc(/C=C/c3ccccc3)cnc2cc1OC,CHEMBL70149,1,mdm2_active,,,,
+COc1ccc(/C=C/c2cnc3cc(OC)c(OC)cc3c2)cc1,CHEMBL66101,1,mdm2_active,,,,
+C(=C/c1cnc2ccccc2c1)\c1ccccc1,CHEMBL65858,1,mdm2_active,,,,
+C/C=C\c1ccc([C@H]2CC3CCC([C@H]2C(=O)OC)N3C)cc1,CHEMBL435341,0,non_mdm2_active_CHEMBL228,1.15,IC50,NM,"Active against CHEMBL228, not MDM2"
+COC(=O)[C@@H]1C2CCC(C[C@@H]1c1ccc(/C=C\I)cc1)N2,CHEMBL174088,0,non_mdm2_active_CHEMBL228,0.05,KI,NM,"Active against CHEMBL228, not MDM2"
+COC(=O)C1C(c2ccc(Cl)c(Cl)c2)CC2CCC1N2C,CHEMBL87031,0,non_mdm2_active_CHEMBL228,27.6,IC50,NM,"Active against CHEMBL228, not MDM2"
+COc1cc2cc(NCc3ccccc3)cnc2cc1OC,CHEMBL65850,1,mdm2_active,,,,
+COc1cc2cc(-c3c[nH]c4ccccc34)cnc2cc1OC,CHEMBL302545,1,mdm2_active,,,,
+CC(=N)N1CCC(Oc2ccc3c(c2)nc(C(C)C)n3Cc2ccc3ccc(C(=N)N)cc3c2)CC1,CHEMBL176744,0,non_mdm2_active_CHEMBL204,870.0,KI,NM,"Active against CHEMBL204, not MDM2"
+COc1cc(CNC(=O)[C@@H]2CCCN2C(=O)C(N)C(c2ccccc2)c2ccccc2)cc(OC)c1,CHEMBL3142655,0,non_mdm2_active_CHEMBL204,50.0,IC50,NM,"Active against CHEMBL204, not MDM2"
+COC(=O)C1C2CCC(CC1c1ccc(Cl)c(Cl)c1)O2,CHEMBL316342,0,non_mdm2_active_CHEMBL228,6.5,IC50,NM,"Active against CHEMBL228, not MDM2"
+Fc1ccc(-c2[nH]c(-c3ccc(F)cc3)c3c2C2CCC3CC2)cc1,CHEMBL140167,0,non_mdm2_active_CHEMBL230,0.12,IC50,NM,"Active against CHEMBL230, not MDM2"

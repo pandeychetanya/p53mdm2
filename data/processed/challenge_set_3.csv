@@ -1,0 +1,9 @@
+canonical_smiles,molecule_chembl_id,is_inhibitor,data_source,standard_value,standard_type,standard_units,activity_comment,challenge_set
+COc1cc2cc(CCC3CCCCC3)cnc2cc1OC,CHEMBL66786,1,mdm2_active,,,,,3
+COc1cc2cc(/C=C/c3ccccc3)cnc2cc1OC,CHEMBL70149,1,mdm2_active,,,,,3
+COc1ccc(/C=C/c2cnc3cc(OC)c(OC)cc3c2)cc1,CHEMBL66101,1,mdm2_active,,,,,3
+C(=C/c1cnc2ccccc2c1)\c1ccccc1,CHEMBL65858,1,mdm2_active,,,,,3
+COc1cc2cc(NCc3ccccc3)cnc2cc1OC,CHEMBL65850,1,mdm2_active,,,,,3
+COc1cc2cc(C3=CCCC3)cnc2cc1OC,CHEMBL66618,1,mdm2_active,,,,,3
+COc1cc2cc(OCc3ccccc3)cnc2cc1OC,CHEMBL66932,1,mdm2_active,,,,,3
+COc1cc2cc(-c3c[nH]c4ccccc34)cnc2cc1OC,CHEMBL302545,1,mdm2_active,,,,,3

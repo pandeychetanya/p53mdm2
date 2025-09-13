@@ -1,0 +1,13 @@
+rdkit
+chembl-webresource-client
+pandas
+numpy
+scikit-learn
+torch
+torch-geometric
+deap
+matplotlib
+seaborn
+jupyter
+tqdm
+requests

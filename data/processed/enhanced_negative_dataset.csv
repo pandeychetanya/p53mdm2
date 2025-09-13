@@ -1,0 +1,18 @@
+canonical_smiles,molecule_chembl_id,standard_value,standard_type,standard_units,is_inhibitor,data_source,activity_comment
+Cc1cc(C)c(/C=C2\C(=O)Nc3ncnc(Nc4ccc(F)c(Cl)c4)c32)[nH]1,CHEMBL68920,41.0,IC50,NM,0,non_mdm2_active_CHEMBL203,"Active against CHEMBL203, not MDM2"
+Cc1cc(C(=O)N2CCOCC2)[nH]c1/C=C1\C(=O)Nc2ncnc(Nc3ccc(F)c(Cl)c3)c21,CHEMBL69960,170.0,IC50,NM,0,non_mdm2_active_CHEMBL203,"Active against CHEMBL203, not MDM2"
+CC(=N)N1CCC(Oc2ccc3c(c2)nc(C(C)C)n3Cc2ccc3ccc(C(=N)N)cc3c2)CC1,CHEMBL176744,870.0,KI,NM,0,non_mdm2_active_CHEMBL204,"Active against CHEMBL204, not MDM2"
+CCN(C(=O)C1=CCC[C@H]1C(=O)NCc1ccc(C(=N)N)cc1)C1CCCCC1,CHEMBL50117,890.0,IC50,NM,0,non_mdm2_active_CHEMBL204,"Active against CHEMBL204, not MDM2"
+CC(O)[C@H](NC(=O)[C@H](Cc1ccc([N+](=O)[O-])cc1)NC(=O)CCCN=C(N)N)C(=O)N[C@H](CO)c1ccccc1,CHEMBL108952,19.0,IC50,NM,0,non_mdm2_active_CHEMBL204,"Active against CHEMBL204, not MDM2"
+COc1cc(CNC(=O)[C@@H]2CCCN2C(=O)C(N)C(c2ccccc2)c2ccccc2)cc(OC)c1,CHEMBL3142655,50.0,IC50,NM,0,non_mdm2_active_CHEMBL204,"Active against CHEMBL204, not MDM2"
+C/C=C\c1ccc([C@H]2CC3CCC([C@H]2C(=O)OC)N3C)cc1,CHEMBL435341,1.15,IC50,NM,0,non_mdm2_active_CHEMBL228,"Active against CHEMBL228, not MDM2"
+COC(=O)[C@@H]1C2CC[C@H](C[C@@H]1c1ccc(I)cc1)N2C,CHEMBL311347,0.67,KI,NM,0,non_mdm2_active_CHEMBL228,"Active against CHEMBL228, not MDM2"
+COC(=O)C1C2CCC(C2)CC1c1ccc(Cl)c(Cl)c1,CHEMBL100941,33.4,IC50,NM,0,non_mdm2_active_CHEMBL228,"Active against CHEMBL228, not MDM2"
+COC(=O)[C@@H]1C2CCC(C[C@@H]1c1ccc(/C=C\I)cc1)N2,CHEMBL174088,0.05,KI,NM,0,non_mdm2_active_CHEMBL228,"Active against CHEMBL228, not MDM2"
+COC(=O)C1C(c2ccc(Cl)c(Cl)c2)CC2CCC1N2C,CHEMBL87031,27.6,IC50,NM,0,non_mdm2_active_CHEMBL228,"Active against CHEMBL228, not MDM2"
+COC(=O)C1C2CCC(CC1c1ccc(Cl)c(Cl)c1)O2,CHEMBL316342,6.5,IC50,NM,0,non_mdm2_active_CHEMBL228,"Active against CHEMBL228, not MDM2"
+Cc1ccc(-c2ccc(S(C)(=O)=O)cc2)n1-c1ccccc1,CHEMBL297008,60.0,IC50,NM,0,non_mdm2_active_CHEMBL230,"Active against CHEMBL230, not MDM2"
+Cc1c(COc2cccc(Cl)c2)cc(-c2ccc(S(C)(=O)=O)cc2)n1-c1ccc(F)cc1,CHEMBL43736,80.0,IC50,NM,0,non_mdm2_active_CHEMBL230,"Active against CHEMBL230, not MDM2"
+Fc1ccc(-c2[nH]c(-c3ccc(F)cc3)c3c2C2CCC3CC2)cc1,CHEMBL140167,0.12,IC50,NM,0,non_mdm2_active_CHEMBL230,"Active against CHEMBL230, not MDM2"
+CN(C)CCN(c1ccccc1)c1ccccc1,DECOY_000010,,,,0,drug_like_decoy,Drug-like decoy compound
+CN(C)CCCN1c2ccccc2Sc2ccccc21,DECOY_000012,,,,0,drug_like_decoy,Drug-like decoy compound

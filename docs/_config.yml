@@ -1,0 +1,30 @@
+theme: jekyll-theme-minimal
+title: MDM2 Inhibition Predictor
+description: AI-Powered Cancer Drug Discovery Tool
+url: https://pandeychetanya.github.io
+baseurl: /p53mdm2
+
+# GitHub Pages settings
+plugins:
+  - jekyll-default-layout
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-titles-from-headings
+  - jekyll-relative-links
+
+markdown: kramdown
+highlighter: rouge
+
+# Site metadata
+author: Chetanya Pandey
+keywords: MDM2, cancer, drug discovery, machine learning, AI, molecular prediction
+google_analytics: # Add your GA tracking ID if needed
+
+# Navigation
+navigation:
+  - name: Home
+    link: /
+  - name: About
+    link: /about
+  - name: Documentation
+    link: /docs

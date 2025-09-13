@@ -1,0 +1,27 @@
+{
+  "total_compounds": 661,
+  "actives": 201,
+  "inactives": 460,
+  "train_size": 468,
+  "val_size": 101,
+  "test_size": 92,
+  "data_sources": {
+    "dude_decoy": 402,
+    "chembl_active": 196,
+    "experimental_inactive": 50,
+    "confirmed_negative": 8,
+    "literature": 5
+  },
+  "train_class_distribution": {
+    "0": 412,
+    "1": 56
+  },
+  "val_class_distribution": {
+    "1": 76,
+    "0": 25
+  },
+  "test_class_distribution": {
+    "1": 69,
+    "0": 23
+  }
+}

@@ -1,0 +1,9 @@
+canonical_smiles,molecule_chembl_id,is_inhibitor,data_source,standard_value,standard_type,standard_units,activity_comment
+c1cc(-c2cnc3cc4c(cc3c2)OCO4)cs1,CHEMBL69378,1,mdm2_active,,,,
+COc1cc2cc(C3CCCC3)cnc2cc1OC,CHEMBL66785,1,mdm2_active,,,,
+COc1cc2cc(C3=CCCC3)cnc2cc1OC,CHEMBL66618,1,mdm2_active,,,,
+Cc1cc(C)c(/C=C2\C(=O)Nc3ncnc(Nc4ccc(F)c(Cl)c4)c32)[nH]1,CHEMBL68920,0,non_mdm2_active_CHEMBL203,41.0,IC50,NM,"Active against CHEMBL203, not MDM2"
+CCN(C(=O)C1=CCC[C@H]1C(=O)NCc1ccc(C(=N)N)cc1)C1CCCCC1,CHEMBL50117,0,non_mdm2_active_CHEMBL204,890.0,IC50,NM,"Active against CHEMBL204, not MDM2"
+COC(=O)[C@@H]1C2CC[C@H](C[C@@H]1c1ccc(I)cc1)N2C,CHEMBL311347,0,non_mdm2_active_CHEMBL228,0.67,KI,NM,"Active against CHEMBL228, not MDM2"
+Cc1ccc(-c2ccc(S(C)(=O)=O)cc2)n1-c1ccccc1,CHEMBL297008,0,non_mdm2_active_CHEMBL230,60.0,IC50,NM,"Active against CHEMBL230, not MDM2"
+CN(C)CCN(c1ccccc1)c1ccccc1,DECOY_000010,0,drug_like_decoy,,,,Drug-like decoy compound
